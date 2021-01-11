@@ -23,6 +23,8 @@
 
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredLavoie&layout=compact)
+
 ---
 
 - I’m currently working on finishing my structural analysis web application project
