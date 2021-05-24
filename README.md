@@ -21,11 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredLavoie&layout=compact)
 <br />
 ---
-
-- I’m currently working on finishing my structural analysis web application project
-- I’m currently deepening my knowledge of SQL and Linux
-- I'm currently looking to find an open source project to contribute to
-
-[website]: https://fredlavoie.dev
-[twitter]: https://twitter.com/FredLavoie_
-[linkedin]: https://linkedin.com/in/flavoie3/
