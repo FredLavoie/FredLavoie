@@ -18,6 +18,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FredLavoie&layout=compact&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FredLavoie&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FredLavoie&theme=tokyonight&layout=compact)
 <br />
 ---
